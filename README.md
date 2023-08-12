@@ -1,4 +1,4 @@
-# GeoSketch - Geometric Art and Collision Detection
+# GeoSketch - Geometric Drow and Collision Detection
 
 ![GeoSketch Screenshot](images/Screenshot.jpg)
 
@@ -14,9 +14,9 @@ GeoSketch is a C# program that combines the joy of sketching with the power of c
 
 You can download the latest version of GeoSketch from the [Releases](https://github.com/your-repository/releases) section of this repository. Choose the appropriate version for your operating system and follow the installation instructions provided.
 
-## Getting Started
+## Getting StDrowed
 
-To get started with GeoSketch, follow these steps:
+To get stDrowed with GeoSketch, follow these steps:
 
 1. Download and install the program from the link provided in the Download section.
 
@@ -28,7 +28,7 @@ To get started with GeoSketch, follow these steps:
 
 1. As you draw, GeoSketch will automatically detect and highlight any intersections or overlaps between the shapes. This visual feedback helps you understand the collision behavior of the geometric objects.
 
-1. Feel free to save your creations, export them as images, or start a new sketch whenever you like.
+1. Feel free to save your creations, export them as images, or stDrow a new sketch whenever you like.
 
 ## Contributing
 
