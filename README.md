@@ -41,3 +41,6 @@ GeoSketch is released under the [MIT License](LICENSE), which means you're free 
 ## Acknowledgements
 
 We would like to express our gratitude to the open-source community for their valuable contributions and the libraries and frameworks that made GeoSketch possible.
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8266308.svg)](https://doi.org/10.5281/zenodo.8266308)
