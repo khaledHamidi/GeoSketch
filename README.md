@@ -12,8 +12,11 @@ GeoSketch is a C# program that combines the joy of sketching with the power of c
 
 ## Download
 
-You can download the latest version of GeoSketch from the [Releases](https://github.com/your-repository/releases) section of this repository. Choose the appropriate version for your operating system and follow the installation instructions provided.
+You can download the latest version of GeoSketch from the [Releases](/releases) section of this repository. Choose the appropriate version for your operating system and follow the installation instructions provided.
 
+also you can download it from sourceforge:
+
+[![Download QistasLinks-Serial-Communication-Library](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/qistaslinks-serial-library/files/latest/download)
 ## Getting StDrowed
 
 To get stDrowed with GeoSketch, follow these steps:
